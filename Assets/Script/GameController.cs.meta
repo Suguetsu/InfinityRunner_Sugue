@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecddabbabded6ac4ea71c6abc83c385c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bridgeprefa: {fileID: 7470107734864315061, guid: 7d2cf7068dbe110498f5ceccfb39422a,
+      type: 3}
+  - barril: {fileID: 284972627675374816, guid: 715d44edf086dc24ba92598e1c8d5e5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
